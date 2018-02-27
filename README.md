@@ -1,4 +1,5 @@
 # generic-storage
+## in development
 Simple generic storage for solidity contracts, supporting write restriction using RBAC.
 
 Aims to be a simple key -> value storage method, everything is in bytes32.
